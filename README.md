@@ -2,6 +2,10 @@
 - 👀 I’m interested in cyber security, ethical hacking, software development.
 - 🌱 I’m currently learning B.Tech Final Year CSE
 - 💞️ I’m looking to collaborate on hacking
+- 💕 https://www.youtube.com/@Rahul_Vijayan
+-  ✔ https://www.linkedin.com/in/rahul-vijayan-682a12194/
+-  ✔ https://www.facebook.com/rahul.vijayan.5815/
+-  ✔ https://www.instagram.com/rahulzz_/
 
 
 
