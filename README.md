@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on hacking
 - 💕 https://www.youtube.com/@Rahul_Vijayan
 -  ✔ https://www.linkedin.com/in/rahul-vijayan-682a12194/
--  ✔ https://www.facebook.com/rahul.vijayan.5815/
--  ✔ https://www.instagram.com/rahulzz_/
+-  ✔ https://www.facebook.com/profile.php?id=61557448937739
+-  ✔ https://www.instagram.com/rv_official_yt/
 
 
 
