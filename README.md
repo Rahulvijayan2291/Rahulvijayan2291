@@ -1,5 +1,34 @@
-# 💫 About Me:
-Hi there 👋, I'm Rahul Vijayan<br>I am a Full-Stack Software Engineer with a passion for solving complex concurrency, system design, and scalability challenges in mission-critical environments. With over 3.5 years of experience, I specialize in architecting distributed systems, designing fault-tolerant microservices, and building high-throughput event-driven architectures.<br>Beyond engineering, I am deeply passionate about education and community building. I run a YouTube channel with over 6,300 subscribers where I share coding tutorials, System Design concepts, and DSA patterns. I am also currently developing a comprehensive, beginner-to-advanced Java course for Udemy and running a free placement and referral program to help fellow developers land their next roles.<br>When I step away from the keyboard, you can usually find me planning my next long road trip from Trivandrum, analyzing the latest car models, or exploring personal finance and investment strategies.<br>🚀 What I do<br>Software Engineering: Building secure, robust server-side logic and responsive client-side interfaces.<br>System Optimization: Spearheading the re-architecture of legacy batch processing systems into distributed, real-time event processing solutions.<br>Mentorship: Teaching clean code principles, design patterns, and DSA to students and junior engineers.<br>🛠️ Tech Stack<br>Languages: Java (Core/Advanced), JavaScript (ES6+), Python, SQL.<br>Backend: Spring Boot, Node.js, Express.js, RESTful APIs, Microservices.<br>Frontend: React.js, Redux, HTML, CSS, Responsive Design.<br>Data & Cloud: Apache Kafka, MySQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes Concepts.<br>🏆 Achievements & Certifications<br>Competitive Programming: Global Top 1% Ranking on LeetCode (Guardian, peak rating 2221).<br>Cloud Computing: AWS Certified Solutions Architect & AWS Certified Developer (Associate).<br>Performance Impact: Successfully reduced legacy workflow execution times by 95% and improved system throughput by 60% using event streaming pipelines.<br><br><br>
+# Hi there 👋, I'm Rahul Vijayan
+
+I am a Full-Stack Software Engineer with 3.5 years of experience architecting distributed systems. I specialize in designing fault-tolerant microservices and high-throughput event-driven architectures using technologies like Apache Kafka. 
+
+Beyond engineering, I am deeply passionate about education and community building. I run a coding YouTube channel, develop courses, and manage a free placement and referral program to help fellow developers land their next roles. When I step away from the keyboard, you can usually find me planning my next road trip from Trivandrum, analyzing car models, or exploring personal finance.
+
+### 🚀 What I do
+- **Software Engineering:** Building secure, robust server-side logic and responsive client-side interfaces.
+- **System Optimization:** Spearheading the re-architecture of legacy batch processing systems into distributed, real-time event processing solutions.
+- **Mentorship:** Mentoring junior engineers on clean code principles, design patterns, and documentation standards.
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏆 Achievements & Certifications
+- **Competitive Programming:** LeetCode Guardian with a peak contest rating of 2221 (Global Top 1%).
+- **Cloud Computing:** AWS Certified Solutions Architect and AWS Certified Developer - Associate.
+- **Performance Impact:** Reduced workflow execution time by 95% by optimizing legacy workflows.
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-vijayan-682a12194/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://rahulvijayan.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rahul_Vijayan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Norman923/)
 
 
 ## 🌐 Socials:
